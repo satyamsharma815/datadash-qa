@@ -1,1 +1,12 @@
 
+{
+  "name": "datadash-qa",
+  "version": "1.0.0",
+  "description": "Automated QA scraper for DataDash tables",
+  "scripts": {
+    "scrape": "node scrape.js"
+  },
+  "dependencies": {
+    "playwright": "^1.40.0"
+  }
+}
